@@ -1,10 +1,10 @@
 # ses_pregnancy_exposome
-Code for Sum KK, et al. socioeconomic landscape of pregnancy exposome
+Code and results for Sum KK, et al. socioeconomic landscape of pregnancy exposome
 
-This repository contains all the codes used for the data clearning, main ExWAS analyses, and visualizations for the manuscript:
-"The socioeconomic landscape of the exposome during pregnancy" by Ka Kei Sum, et al.
+This repository contains all the codes used for the data cleaning and geospatial data creation, main ExWAS analyses, and visualizations for the manuscript:
+"The socioeconomic landscape of the exposome during pregnancy" by Ka Kei Sum, et al. along with the summary results for all correlations
 
-There are three sub-folders:
+The sub-directories are organized as follows:
 
 -	data_management 
 o	data_managment_obj_updated: codes for data cleaning 
