@@ -1,0 +1,148 @@
+Exposure_name,Exposure,Family
+Avg systolic BP,s_sbp_avg,Blood pressure
+Avg diastolic BP,ls_dbp_avg,Blood pressure
+Avg estimated MAP ,ls_map_avg,Blood pressure
+Weight at pw26 ,ls_m_weight_pw26,Anthropometrics
+Height at pw26,ls_m_height_pw26,Anthropometrics
+Midarm circumference at pw26,ls_m_midarm_pw26,Anthropometrics
+Triceps skinfold at pw26,s_m_triceps_pw26,Anthropometrics
+Biceps skinfold at pw26,ls_m_biceps_pw26,Anthropometrics
+Subscapular skinfold at pw26,s_m_subscapular_pw26,Anthropometrics
+Suprailiac skinfold at pw26,s_m_suprailiac_pw26,Anthropometrics
+Avg antenatal weight 1st tri ,ls_avg_weight_1sttri,Anthropometrics
+Avg antenatal weight 2nd tri,ls_avg_weight_2ndtri,Anthropometrics
+Avg antenatal weight 3rd tri ,ls_avg_weight_3rdtri,Anthropometrics
+Last antenatal weight,ls_last_antenatal_weight,Anthropometrics
+Sodium  ,ls_mpm3na,Minerals
+Magnesium   ,ls_mpm3mg,Minerals
+Phosphorus ,ls_mpm3p,Minerals
+Potassium,ls_mpm3k,Minerals
+Calcium ,ls_mpm3ca,Minerals
+Iron ,ls_mpm3fe,Minerals
+Ferritin ,ls_mpm3fr,Minerals
+Copper,ls_mpm3cu,Minerals
+Zinc ,ls_mpm3zn,Minerals
+Selenium ,s_mpm3se,Minerals
+Transferrin receptor ,ls_mpm3tr,Minerals
+Myristic,ls_mpm3my,Lipids/fatty acids
+Palmitic acid,ls_mpm3pal,Lipids/fatty acids
+Palmitoleic acid,ls_mpm3pl,Lipids/fatty acids
+Stearic acid,ls_mpm3st,Lipids/fatty acids
+Oleic acid,ls_mpm3ol,Lipids/fatty acids
+cis-Vaccenic acid ,ls_mpm3cv,Lipids/fatty acids
+Linoleic acid,ls_mpm3li,Lipids/fatty acids
+Linolenic acid (n-6) ,ls_mpm3li6,Lipids/fatty acids
+Linolenic acid (n-3)  ,ls_mpm3li3,Lipids/fatty acids
+Arachidic acid ,ls_mpm320,Lipids/fatty acids
+Gondoic acid ,ls_mpm3n9,Lipids/fatty acids
+Eicosadienoic acid  ,s_mpm32n6,Lipids/fatty acids
+DGLA ,ls_mpm33n6,Lipids/fatty acids
+Arachidonic ,ls_mpm3ar6,Lipids/fatty acids
+Behenic acid,ls_mpm322,Lipids/fatty acids
+ETA ,ls_mpm3n3,Lipids/fatty acids
+EPA ,ls_mpm3epa,Lipids/fatty acids
+Adrenic acid ,ls_mpm3n62,Lipids/fatty acids
+DPA ,ls_mpm3dpa,Lipids/fatty acids
+DHA,ls_mpm3dha,Lipids/fatty acids
+Total FA ,ls_mpm3tfa,Lipids/fatty acids
+Total n-3,ls_mpm3tn3,Lipids/fatty acids
+Total n-6 ,ls_mpm3tn6,Lipids/fatty acids
+SFA ,ls_mpm3sfa,Lipids/fatty acids
+MUFA ,ls_mpm3muf,Lipids/fatty acids
+PUFA ,ls_mpm3puf,Lipids/fatty acids
+Triglycerides,ls_mbc3tg,Lipids/fatty acids
+Total cholesterol,s_mbc3tc,Lipids/fatty acids
+HDL-cholesterol ,s_mbc3hdl,Lipids/fatty acids
+LDL-cholesterol,s_mbc3ldl,Lipids/fatty acids
+LDL-cholesterol,s_mbc3ldl_num,Lipids/fatty acids
+Flavin mononucleotide,ls_mpm3fmn2,Vitamins
+Riboflavin ,ls_mpm3ribo2,Vitamins
+N1-methylnicotinamide  ,ls_mpm3mnam2,Vitamins
+Nicotinamide,ls_mpm3nam2,Vitamins
+Trigonelline ,ls_mpm3trig2,Vitamins
+Pyridoxal,ls_mpm3py2,Vitamins
+Pyridoxal 5-phosphate ,ls_mpm3plpb2,Vitamins
+Pyridoxic acid,ls_mpm3pabe2,Vitamins
+Folate,ls_mpm3fo,Vitamins
+Vitamin B12,ls_mpm3b12p,Vitamins
+Vitamin D3,s_mpm3vd3,Vitamins
+Arginine,ls_mpm3arg2,Amino acids/choline
+Asymmetric dimethylarginine ,ls_mpm3adma2,Amino acids/choline
+Creatine,s_mpm3crn2,Amino acids/choline
+Creatinine ,s_mpm3crea2,Amino acids/choline
+Homoarginine,ls_mpm3harg2,Amino acids/choline
+Symmetric dimethylarginine,ls_mpm3sdma2,Amino acids/choline
+Trimethyllysine ,ls_mpm3tml2,Amino acids/choline
+Cystathionine ,ls_mpm3csta2,Amino acids/choline
+Total Homocysteine ,ls_mpm3hcy2,Amino acids/choline
+Total cysteine ,s_mpm3tcys2,Amino acids/choline
+1-Methylhistidine ,ls_mpm3m1hs2,Amino acids/choline
+3-Methylhistidine ,ls_mpm3m3hs2,Amino acids/choline
+Histidine ,ls_mpm3hist2,Amino acids/choline
+Methionine ,ls_mpm3met2,Amino acids/choline
+Methionine sulfoxide ,ls_mpm3mtso2,Amino acids/choline
+3-Hydroxyanthranilic acid ,ls_mpm3haa2,Amino acids/choline
+3-Hydroxykynurenine ,ls_mpm3hk2,Amino acids/choline
+Anthranilic acid ,ls_mpm3aa2,Amino acids/choline
+Kynurenic acid ,ls_mpm3ka2,Amino acids/choline
+Kynurenine ,ls_mpm3kyn2,Amino acids/choline
+Quinolinic acid ,ls_mpm3qa2,Amino acids/choline
+Tryptophan ,s_mpm3trp2,Amino acids/choline
+Xanthurenic acid ,ls_mpm3xa2,Amino acids/choline
+Betaine ,ls_mpm3betn2,Amino acids/choline
+Choline ,ls_mpm3chol2,Amino acids/choline
+Dimethylglycine ,ls_mpm3dmg2,Amino acids/choline
+Trimethylamineoxide,ls_mpm3tmao2,Amino acids/choline
+Fasting glucose,ls_m_ogtt_fasting_pw26,Glucose
+2-hour glucose,ls_m_ogtt_2hour_pw26,Glucose
+Adiponectin,ls_adiponectin,Adipocytokines and hormones
+PAI-1,ls_pai1,Adipocytokines and hormones
+Resistin,ls_resistin,Adipocytokines and hormones
+MCP-1,ls_mcp1,Adipocytokines and hormones
+FSH,ls_fsh,Adipocytokines and hormones
+GH,ls_gh,Adipocytokines and hormones
+LH,ls_lh,Adipocytokines and hormones
+TSH,ls_tsh,Adipocytokines and hormones
+IGF-I,ls_igfi,Adipocytokines and hormones
+IGF-II,ls_igfii,Adipocytokines and hormones
+IGFBP-1,ls_igfbp1,Adipocytokines and hormones
+IGFBP-3,ls_igfbp3,Adipocytokines and hormones
+IGFBP-7,ls_igfbp7,Adipocytokines and hormones
+C-peptide,ls_cpeptide,Adipocytokines and hormones
+Leptin,ls_leptin,Adipocytokines and hormones
+CRP_l,ls_crp,Adipocytokines and hormones
+IFN-g,ls_ifng,Adipocytokines and hormones
+TNF-a,ls_tnfa,Adipocytokines and hormones
+VEGF,ls_vegf,Adipocytokines and hormones
+IGFBP-4,ls_igfbp4,Adipocytokines and hormones
+Insulin_l,ls_insulin,Adipocytokines and hormones
+Insulin,ls_mbc3ins,Adipocytokines and hormones
+C-reactive protein,ls_mbc3hscp,Other biochemicals
+C-reactive protein,ls_mbc3hscp_num,Other biochemicals
+Alanine transaminase ,ls_mbc3alt,Other biochemicals
+Alanine transaminase ,ls_mbc3alt_num,Other biochemicals
+Aspartate transaminase,ls_mbc3ast,Other biochemicals
+Gamma glutamyl transferase,ls_mbc3ggt,Other biochemicals
+Gamma glutamyl transferase,ls_mbc3ggt_num,Other biochemicals
+Creatinine_b,s_mbc3cre,Other biochemicals
+Uric acid,ls_mbc3ura,Other biochemicals
+Uric acid,ls_mbc3ura_num,Other biochemicals
+Neopterin ,ls_mpm3neo2,Other biochemicals
+PFBA,ls_pfba,PFAS
+PFHpA,ls_pfhpa,PFAS
+PFNA,ls_pfna,PFAS
+PFDA,ls_pfda,PFAS
+PFUnDA,ls_pfunda,PFAS
+PFDoDA,ls_pfdoda,PFAS
+PFHxS,ls_pfhxs,PFAS
+PFOA,ls_pfoa,PFAS
+PFBS,ls_pfbs,PFAS
+PFOS,ls_pfos,PFAS
+PSI 1st tri,s_psi_tri1,Air pollutants
+PSI 2nd tri,s_psi_tri2,Air pollutants
+PSI 3rd tri ,s_psi_tri3,Air pollutants
+PSI pregnancy ,s_psi_pregnancy,Air pollutants
+PM2.5 1st tri ,s_pm25_1st,Air pollutants
+PM2.5 2nd tri,s_pm25_2nd,Air pollutants
+PM2.5 3rd tri,s_pm25_3rd,Air pollutants
+PM2.5 pregnancy ,s_pm25_avg_daily_1,Air pollutants
