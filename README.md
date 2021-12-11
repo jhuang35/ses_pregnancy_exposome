@@ -5,13 +5,13 @@ This repository contains all the codes used for the data cleaning and geospatial
 
 The files are organized as follows:
 
-/data_management/  
+**/data_management/**  
   - data_managment_obj_updated: code for data cleaning   
   -	descriptive obj_updated: code for transformation and descriptive analysis   
   -	biochemistry: code for data cleaning for biochemistry data   
   - pfas_corrected: code for data cleaning for PFAS data  
 
-/analysis/  
+**/analysis/**  
   - ExWAS: code for all ExWAS models (8 X 134 models)   
   -	Interaction: code for interaction with ethnicity and nativity for each SEP indicator   
   - MCA: code for MCA analyses  
@@ -23,7 +23,7 @@ The files are organized as follows:
      - MI_pfas_corrected_weight: MI for PFAS data with LOD   
   - spearman_mi_full: spearman correlation analyses  
   
-/visualization/   
+**/visualization/**   
   - forestplots: code to create forest plots presented in the paper   
   - geospatial: geospatial shape files used to create Singapore maps   
   - results_output: spearman and ExWAS results     
