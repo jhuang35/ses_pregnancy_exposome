@@ -1,6 +1,6 @@
 # Code and summary results for Sum KK, _et al._ "The socioeconomic landscape of the exposome during pregnancy"
 
-This repository contains all the codes used for the data cleaning and geospatial data creation, main ExWAS analyses, and visualizations for the manuscript:
+This repository contains all the code used for data cleaning and geospatial data creation, main ExWAS analyses, and visualizations for the manuscript:
 "The socioeconomic landscape of the exposome during pregnancy" by Ka Kei Sum, _et al._ (2021) along with the summary results for all correlations.
 
 The files are organized as follows:
