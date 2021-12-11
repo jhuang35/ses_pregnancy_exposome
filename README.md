@@ -16,7 +16,7 @@ The files are organized as follows:
      - MI_luminex_novegf_weight.do: MI for adipocytokines and hormones data with LOD  
      - MI_pfas_corrected_weight.do: MI for PFAS data with LOD   
   - spearman_mi_full.do: code for spearman correlation analyses  
-  - 
+  
 **/data_management/**  
   - data_managment_obj_updated.do: code for data cleaning   
   -	descriptive obj_updated.do: code for transformation and descriptive analysis   
